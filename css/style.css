@@ -1,0 +1,80 @@
+p {
+    /*font-family: 'Recursive', sans-serif;*/
+    color: rgb(0, 0, 0);
+    font-style: inherit;
+    font-size: 20px;
+   
+}
+
+body{
+    background-image: url("https://media.istockphoto.com/id/472347896/photo/striped-soccer-field.jpg?s=612x612&w=0&k=20&c=wgeavCCOimF1b5mrv9QNQuuJqs1ERX67pDjPT3yv8j8=");
+    background-size: auto;
+    background-repeat: repeat;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Itim', cursive;
+    
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: rgb(255, 0, 0);
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navbar {
+    text-align: center;
+}
+
+img {
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.row {
+    display: flex;
+    
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ffffff;
+    margin: 50px;
+    height: 500px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #9e9208;
+}
+
+.futbolcuisim {
+    font-family: 'Caveat', cursive;
+    color:rgb(228, 118, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    font-size: 25px;    
+
+}
+
+.futbolcufoto {
+    height: 250px;
+    border: 1px solid #ffffff;
+    background-color: rgb(228, 118, 255);
+}
+
+.iletisimkutu {
+    text-align: center;
+    background-color: #9e9208;
+    height: 450px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 100px;
+    border-radius: 5px;
+    padding-top: 50px;
+}
