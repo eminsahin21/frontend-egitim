@@ -78,3 +78,11 @@ img {
     border-radius: 5px;
     padding-top: 50px;
 }
+
+a:hover {
+    background-color: #000000;
+}
+
+.column:hover {
+    background-color: #5c1153;
+}
