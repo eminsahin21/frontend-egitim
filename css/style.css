@@ -45,12 +45,13 @@ img {
 .column {
     flex: 1;
     padding: 10px;
-    border: 1px solid #ffffff;
+    border: 3px solid #ffffff;
     margin: 50px;
     height: 500px;
     border-radius: 5px;
     text-align: center;
     background-color: #9e9208;
+    
 }
 
 .futbolcuisim {
